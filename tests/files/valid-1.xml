@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE foo [
+    <!ENTITY apos "&#39;">
+    <!ENTITY gt "&#62;">
+    <!ENTITY quot "&#34;">
+    <!ELEMENT foo (#PCDATA)>
+    ]>
+<foo/>
