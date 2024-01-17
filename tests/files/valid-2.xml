@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE foo [
+    <!ENTITY % amp "&#38;">
+    <!ENTITY apos "&#39;">
+    <!ENTITY gt "&#62;">
+    <!ENTITY % lt "&#60;">
+    <!ENTITY quot "&#34;">
+    <!ELEMENT foo (#PCDATA)>
+    ]>
+<foo/>
